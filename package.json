@@ -1,0 +1,30 @@
+{
+  "name": "smartedu",
+  "version": "1.0.0",
+  "description": "Education Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senagulkorkmaz/SmartEduStarter.git"
+  },
+  "keywords": [
+    "education",
+    "portal",
+    "node.js"
+  ],
+  "author": "Senagül Korkmaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senagulkorkmaz/SmartEduStarter/issues"
+  },
+  "homepage": "https://github.com/senagulkorkmaz/SmartEduStarter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
